@@ -1,0 +1,123 @@
+.box {
+    width: 1050px;
+    height: 100px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #999;
+	text-shadow:10px 10px white;
+}
+
+.box1 {
+    border-top: 5px solid red;
+    border-right: 5px dashed blue;
+    border-bottom: 5px dotted green;
+    border-left: 5px double yellow;
+    background: linear-gradient(to right, red, orange);
+	text-align:center; 
+	font-size:25px;
+}
+
+.box2 {
+    border-top: 5px double red;
+    border-right: 5px solid blue;
+    border-bottom: 5px dashed green;
+    border-left: 5px dotted yellow;
+  background: linear-gradient(to right, orange, yellow);
+text-align:center; 
+	font-size:25px;
+}
+
+.box3 {
+    border-top: 5px dotted red;
+    border-right: 5px double blue;
+    border-bottom: 5px solid green;
+    border-left: 5px dashed yellow;
+    background: linear-gradient(to right, yellow, green);
+text-align:center; 
+	font-size:25px;
+	}
+
+.box4 {
+    border-top: 5px dashed red;
+    border-right: 5px dotted blue;
+    border-bottom: 5px double green;
+    border-left: 5px solid yellow;
+    background: linear-gradient(to right, green, blue);
+text-align:center; 
+	font-size:25px;
+	}
+
+.box5 {
+    border-top: 5px solid red;
+    border-right: 5px dashed blue;
+    border-bottom: 5px dotted green;
+    border-left: 5px double yellow;
+    background: linear-gradient(to right, blue, indigo);
+text-align:center; 
+	font-size:25px;
+	}
+
+.box6 {
+    border-top: 5px double red;
+    border-right: 5px solid blue;
+    border-bottom: 5px dashed green;
+    border-left: 5px dotted yellow;
+    background: linear-gradient(to right, indigo, violet);
+text-align:center; 
+	font-size:25px;
+	}
+
+.box7 {
+    border-top: 5px dotted red;
+    border-right: 5px double blue;
+    border-bottom: 5px solid green;
+    border-left: 5px dashed yellow;
+    background: linear-gradient(to right, red, orange, yellow);
+text-align:center; 
+	font-size:25px;
+	}
+
+.box8 {
+    border-top: 5px dashed red;
+    border-right: 5px dotted blue;
+    border-bottom: 5px double green;
+    border-left: 5px solid yellow;
+    background: linear-gradient(to right, orange, yellow, green);
+text-align:center; 
+	font-size:25px;
+	}
+
+.box9 {
+    border-top: 5px solid red;
+    border-right: 5px dashed blue;
+    border-bottom: 5px dotted green;
+    border-left: 5px double yellow;
+    background: linear-gradient(to right, yellow, green, blue);
+
+text-align:center; 
+	font-size:25px;
+	}
+
+.box10 {
+    border-top: 5px double red;
+    border-right: 5px solid blue;
+    border-bottom: 5px dashed green;
+    border-left: 5px dotted yellow;
+    background: linear-gradient(to right, green, blue, indigo);
+
+text-align:center; 
+	font-size:25px;
+	}
+.sheet
+{
+     text-align:center;   
+     font-size:50px;
+     width:1050px;
+     height: 60px;
+     background-color:black;
+  text-shadow:3px 3px lightgreen;
+  color:#4aec05;
+
+}
+
+
